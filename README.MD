@@ -1,1 +1,1 @@
-Solutions to Project-euler problems.
+Solutions to Project-euler problems in Python.
